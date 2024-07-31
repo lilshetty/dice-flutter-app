@@ -1,16 +1,24 @@
-# dice
+# Dice Roller
 
-A new Flutter project.
+A simple Flutter app that rolls a dice and displays the result.
+
+## Features
+
+- Roll a virtual dice by pressing a button.
+- Display the result with a corresponding dice image.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- An IDE like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/dice-flutter-app.git
