@@ -7,10 +7,6 @@ A simple Flutter app that rolls a dice and displays the result.
 - Roll a virtual dice by pressing a button.
 - Display the result with a corresponding dice image.
 
-
-![dice](https://github.com/user-attachments/assets/06c89fe9-254a-4c85-9a97-db2386f46b31)
-
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -25,3 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/dice-flutter-app.git
+
+### Snapshot
+
+![dice](https://github.com/user-attachments/assets/06c89fe9-254a-4c85-9a97-db2386f46b31)
