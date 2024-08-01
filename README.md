@@ -24,4 +24,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Snapshot
 
-![dice](https://github.com/user-attachments/assets/06c89fe9-254a-4c85-9a97-db2386f46b31)
+![dice](https://github.com/user-attachments/assets/8be14387-61c3-47af-a3b6-298efa42272d)
